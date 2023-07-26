@@ -6,15 +6,15 @@
 
 ## Content
 
-⚪ **[Palindrome Checker](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/01-palindrome_checker.js)**
+⚪ **[Palindrome Checker](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/01-palindrome_checker.js)** :white_check_mark:
 
-⚪ **[Roman Numeral Converter](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/02-roman_numeral_converter.js)**
+⚪ **[Roman Numeral Converter](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/02-roman_numeral_converter.js)** :white_check_mark:
 
-⚪ **[Ceasars Cipher](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/03-ceasars_cipher.js)**
+⚪ **[Ceasars Cipher](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/03-ceasars_cipher.js)** :white_check_mark:
 
-⚪ **[Telephone Number Validator](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/04-telephone_number_validator.js)**
+⚪ **[Telephone Number Validator](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/04-telephone_number_validator.js)** :white_check_mark:
 
-⚪ **[Cash Register](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/05-cash_register.js)**
+⚪ **[Cash Register](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/05-cash_register.js)** :white_check_mark:
 
 
 ## Certificate of Completion 🏆
