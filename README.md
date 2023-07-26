@@ -17,7 +17,7 @@
 ⚪ **[Cash Register](https://github.com/odakris/FCC-JavaScript_Algotihms_Data_Structures/blob/main/05-cash_register.js)**
 
 
-## Certificate of Completion
+## Certificate of Completion 🏆
 
 <p align="center">
   <img src="./certificateofcompletion.png">
