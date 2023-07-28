@@ -22,4 +22,3 @@
 <p align="center">
   <img src="./certificateofcompletion.png">
 </p>
-
